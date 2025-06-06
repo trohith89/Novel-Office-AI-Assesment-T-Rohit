@@ -1,0 +1,11 @@
+streamlit
+langchain
+langchain-community
+langchain-core
+langchain-google-genai
+langchain-groq
+chromadb
+groq
+tiktoken
+pypdf
+protobuf<4
