@@ -6,7 +6,7 @@
 
 # 📚 Indian Legal Conversational Chatbot – Law Q&A over 231+ Page PDF (DU LL.B)
 
-An intelligent RAG-based chatbot that helps students and legal researchers explore **Jurisprudence–I (Legal Method)** from Delhi University. Built using **Groq API + llama3**, **LangChain**, and **ChromaDB**, it enables natural language questions on dense legal theory.
+An intelligent RAG-based chatbot that helps students and legal researchers explore **Jurisprudence–I (Legal Method)** from Delhi University. Built using **Groq API + llama3**, **LangChain**, and **ChromaDB**, it enables natural language questions on dense legal theory. [TextBook Link](https://lawfaculty.du.ac.in/userfiles/downloads/LLBCM/Ist%20Term_Jurisprudence-I_LB101_2023.pdf)
 
 ---
 
