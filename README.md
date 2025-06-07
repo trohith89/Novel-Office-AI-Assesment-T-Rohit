@@ -92,7 +92,7 @@ Set secrets via Hugging Face Spaces settings
 
 ---
 💡 Enhancements
-🔎 Highlighted Summarized and `Explain it like a five` Feature in the UI
+🔎 Highlighted Summarized and `Explain it like a five` Feature in the Backend
 
 ---
 🧑‍⚖️ Audience
